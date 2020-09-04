@@ -1,0 +1,16 @@
+{
+  "name": "@ibumi/get-script",
+  "version": "0.0.1",
+  "description": "Load external javascript programmatically in the browser",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "repository": "https://github.com/fmoessle/get-script.git",
+  "author": "Florian Mößle",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.2"
+  }
+}
